@@ -1,0 +1,26 @@
+
+div{
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+  border-radius: 100%;
+  background-image: url("../000_images/puppy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+img{
+  border: 20px groove orange;
+  border-radius: 100%;
+
+}
+.onedog{
+  border: 20px dashed; green;
+}
+.twodog{
+  border: 20px solid yellow;
+}
+.threedog{
+  border: 20px solid pink
+}
