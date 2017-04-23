@@ -7,12 +7,17 @@ div{
   background-image: url("../000_images/puppy.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  display: inline-block;
 }
 
 
 img{
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
   border: 20px groove orange;
-  border-radius: 100%;
+  padding: 20px;
+  margin: 20px;
 
 }
 .onedog{
